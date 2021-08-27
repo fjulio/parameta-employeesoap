@@ -1,0 +1,2 @@
+INSERT INTO employee (numero_docuemto, tipo_docuemto, nombre, apellido, fecha_naciemiento, fecha_vinculacion, cargo, salario)
+VALUES ('1101453184', 'CC', 'Fabio Andrés', 'Julio', '1991-11-22', '2019-06-04', 'Arquitecto Developer', 50000000.00);
